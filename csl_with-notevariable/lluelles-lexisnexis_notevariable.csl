@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" default-locale="fr-CA">
   <info>
-    <title>LexisNexis Québec (Guide Lluelles modifié, French - Canada)</title>
-    <id>http://www.zotero.org/styles/lluelles-lexisnexis</id>
-    <link href="http://www.zotero.org/styles/lluelles-lexisnexis" rel="self"/>
+    <title>LexisNexis Québec (Guide Lluelles modifié, French - Canada) (with note variable)</title>
+    <id>http://www.zotero.org/styles/lluelles-lexisnexis_with-notevariable</id>
+    <link href="http://www.zotero.org/styles/lluelles-lexisnexis_with-notevariable" rel="self"/>
     <link href="http://www.zotero.org/styles/lluelles" rel="template"/>
     <link href="http://f-mb.github.io/cslegal/" rel="documentation"/>
     <author>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" default-locale="fr-CA">
   <info>
-    <title>Guide des références pour la rédaction juridique 7e édition (Guide Lluelles, French - Canada)</title>
+    <title>Guide des références pour la rédaction juridique 7e édition (Guide Lluelles, French - Canada) (with note variable)</title>
     <title-short>Guide Lluelles v7</title-short>
-    <id>http://www.zotero.org/styles/lluelles</id>
-    <link href="http://www.zotero.org/styles/lluelles" rel="self"/>
+    <id>http://www.zotero.org/styles/lluelles_with-notevariable</id>
+    <link href="http://www.zotero.org/styles/lluelles_with-notevariable" rel="self"/>
     <link href="http://f-mb.github.io/cslegal/" rel="documentation"/>
     <link href="http://www.editionsthemis.com/livres/livre-3844-guide-des-references-pour-la-redaction-juridique.html" rel="documentation"/>
     <author>

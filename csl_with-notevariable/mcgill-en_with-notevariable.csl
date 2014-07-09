@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" default-locale="en-US">
   <info>
-    <title>Canadian Guide to Uniform Legal Citation 7th edition (McGill Guide)</title>
-    <id>http://www.zotero.org/styles/mcgill-en</id>
-    <link href="http://www.zotero.org/styles/mcgill-en" rel="self"/>
+    <title>Canadian Guide to Uniform Legal Citation 7th edition (McGill Guide) (with note variable)</title>
+    <id>http://www.zotero.org/styles/mcgill-en_with-notevariable</id>
+    <link href="http://www.zotero.org/styles/mcgill-en_with-notevariable" rel="self"/>
     <link href="http://www.lawjournal.mcgill.ca/en/text/22" rel="documentation"/>
     <author>
       <name>Liam McHugh-Russell</name>

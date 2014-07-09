@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" default-locale="fr-CA">
   <info>
-    <title>Manuel canadien de la référence juridique 7e édition (Guide McGill, French - Canada)</title>
+    <title>Manuel canadien de la référence juridique 7e édition (Guide McGill, French - Canada) (with note variable)</title>
     <title-short>Guide McGill FR v7</title-short>
-    <id>http://www.zotero.org/styles/mcgill-fr</id>
-    <link href="http://www.zotero.org/styles/mcgill-fr" rel="self"/>
+    <id>http://www.zotero.org/styles/mcgill-fr_with-notevariable</id>
+    <link href="http://www.zotero.org/styles/mcgill-fr_with-notevariable" rel="self"/>
     <link href="http://f-mb.github.io/cslegal/" rel="documentation"/>
     <link href="http://www.lawjournal.mcgill.ca/fr/text/22" rel="documentation"/>
     <author>
